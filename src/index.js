@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import { Route, BrowserRouter as Router} from 'react-router-dom'
+import { Route, BrowserRouter as Router } from 'react-router-dom'
 
 ReactDOM.render(
-  
-    <React.StrictMode>
-      <Router>
-        <App />
+
+  <React.StrictMode>
+    <Router basename={window.location.pathname || ''}>
+      <Route exact path="/" component={App} />
     </Router>
   </React.StrictMode>,
   document.getElementById('root')
