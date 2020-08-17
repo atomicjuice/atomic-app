@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atomic-app/static/css/main.a9fff589.chunk.css",
+    "main.js": "/atomic-app/static/js/main.e68bd99c.chunk.js",
+    "main.js.map": "/atomic-app/static/js/main.e68bd99c.chunk.js.map",
+    "runtime-main.js": "/atomic-app/static/js/runtime-main.3430a458.js",
+    "runtime-main.js.map": "/atomic-app/static/js/runtime-main.3430a458.js.map",
+    "static/js/2.e2911097.chunk.js": "/atomic-app/static/js/2.e2911097.chunk.js",
+    "static/js/2.e2911097.chunk.js.map": "/atomic-app/static/js/2.e2911097.chunk.js.map",
+    "index.html": "/atomic-app/index.html",
+    "precache-manifest.ff8f74124ced35327e36473c2a9bb8e5.js": "/atomic-app/precache-manifest.ff8f74124ced35327e36473c2a9bb8e5.js",
+    "service-worker.js": "/atomic-app/service-worker.js",
+    "static/css/main.a9fff589.chunk.css.map": "/atomic-app/static/css/main.a9fff589.chunk.css.map",
+    "static/js/2.e2911097.chunk.js.LICENSE.txt": "/atomic-app/static/js/2.e2911097.chunk.js.LICENSE.txt",
+    "static/media/openshot-edit2.mp4": "/atomic-app/static/media/openshot-edit2.7990fc1c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3430a458.js",
+    "static/js/2.e2911097.chunk.js",
+    "static/css/main.a9fff589.chunk.css",
+    "static/js/main.e68bd99c.chunk.js"
+  ]
+}
