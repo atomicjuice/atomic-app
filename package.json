@@ -1,6 +1,6 @@
 {
 "homepage": "http://atomicjuice.github.io/atomic-app",
-  "name": "a-react-front-end",
+  "name": "atomic-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
